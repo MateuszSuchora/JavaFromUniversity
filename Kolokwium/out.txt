@@ -1,0 +1,81 @@
+	A to idiota.-- to jest palindrom
+    A to Kamela, ale ma kota.-- to jest palindrom
+    A to kanapa pana Kota.-- to jest palindrom
+    A to kanonadê dano na kota.-- to jest palindrom
+    A to kawa kota.-- to jest palindrom
+    A to kiwi zdziwi kota.-- to jest palindrom
+    A to klei Popiel kota.-- to jest palindrom
+    Ada baluje - Jula bada.-- to jest palindrom
+    Ada baniak Kaina bada.-- to jest palindrom
+    Ada biada i bada.-- to jest palindrom
+    Ada bilon Oli bada.-- to jest palindrom
+    Ada blada nadal bada.-- to jest palindrom
+    Ada blada nici nadal bada.-- to jest palindrom
+    Ada blad¹ dal bada.-- to jest palindrom
+    Ada blask sal bada.-- to jest palindrom
+    Ada butelki, pikle tu bada.-- to jest palindrom
+    Ada bzy zbada.-- to jest palindrom
+    Ada go³a im œmia³o gada!-- to jest palindrom
+    Ada jaja jada.-- to jest palindrom
+    Ada jodu dojada.-- to jest palindrom
+    Ada, baca bada.-- to jest palindrom
+    Ada, baga¿ Aga bada.-- to jest palindrom
+    Ada, b³ota mato³ bada.-- to jest palindrom
+    Ada, braci car bada.-- to jest palindrom
+    Ada, brata Tatar bada.-- to jest palindrom
+    Ada, gmina za nim gada.-- to jest palindrom
+    Ada, gwóŸdŸ ów gada.-- to jest palindrom
+    Ada, jawor krowa jada.-- to jest palindrom
+    Ada, pan Elefant na Fele napada.-- to jest palindrom
+    Ada, pan mi z zimna pada.-- to jest palindrom
+    Ada, pan napada, panna pada.-- to jest palindrom
+    Ada, pan napada.-- to jest palindrom
+    Ada, pan oty³y to napada?-- to jest palindrom
+    Ada, panterka - kret napada.-- to jest palindrom
+    Ada, pluton otul - pada!-- to jest palindrom
+    Ada, praca - a car pada.-- to jest palindrom
+    Akta genera³a da³a renegatka.-- to jest palindrom
+    Akta genera³a ma ma³a renegatka.-- to jest palindrom
+    Akta ma matka.-- to jest palindrom
+    Akta ma w teczce twa matka.-- to jest palindrom
+    Alu, becz - cebula!-- to jest palindrom
+    Atak kata.-- to jest palindrom
+    Ech, chce i co pi¹ty z Zyt¹. I pociech chce.-- to jest palindrom
+    Elf uk³ada³ kufle.-- to jest palindrom
+    Elu, becz - cebule!-- to jest palindrom
+    I co idioci.-- to jest palindrom
+    I koby³kom mok³y boki.-- to jest palindrom
+    I ma³a dama sama da³a mi.-- to jest palindrom
+    Igor ³ama³ rogi.-- to jest palindrom
+    Ikar bada braki.-- to jest palindrom
+    Ikar jadaj raki!-- to jest palindrom
+    Ikar ³apa³ raki.-- to jest palindrom
+    Ile Roman ³adny dynda³ na moreli?-- to jest palindrom
+    Ile Romanowi da³a za ³ad Iwona moreli?-- to jest palindrom
+    Ilu beczy z cebuli?-- to jest palindrom
+    Ino gile Roman na moreli goni.-- to jest palindrom
+    Jego tato idiota, to gej.-- to jest palindrom
+    Kamil œlimak.-- to jest palindrom
+    Koby³a ma ma³y bok.-- to jest palindrom
+    Koby³a ma za ma³y bok.-- to jest palindrom
+    Koby³y mi my³y bok.-- to jest palindrom
+    £apa³ za kran, a kanarka z³apa³.-- to jest palindrom
+    Mamuta tu mam.-- to jest palindrom
+    Ma tarapaty ta para tam.-- to jest palindrom
+    Marzena pokaza³a Zakopane z ram.-- to jest palindrom
+    Mo¿e je¿ ³ka jak ³¿e je¿om.-- to jest palindrom
+    Mo¿e je¿ ³ysy ³¿e je¿om.-- to jest palindrom
+    Mo¿e je¿ ³¿e je¿om.-- to jest palindrom
+    Mo¿e jutro ta dama da tortu je¿om.-- to jest palindrom
+    Mo¿e jutro ta dama sama da tortu je¿om.-- to jest palindrom
+    My to pili po tym.-- to jest palindrom
+    O, ty z Katowic, Iwo? Tak, Zyto.-- to jest palindrom
+    Satyra rota to rarytas.-- to jest palindrom
+    Soli sama silos.-- to jest palindrom
+    Tolo ma samolot.-- to jest palindrom
+    Wó³ uty³ i ma mi³y tu³ów.-- to jest palindrom
+    Zakopane chce na pokaz.-- to jest palindrom
+    Zakopane i nie na pokaz.-- to jest palindrom
+    Zakopane ma dame na pokaz.-- to jest palindrom
+    Zakopane na pokaz.-- to jest palindrom
+    ¯e te¿ ³¿e je¿? ³¿e te¿!-- to jest palindrom
